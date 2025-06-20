@@ -17,7 +17,7 @@ This guide outlines how I set up the CAPEv2 malware analysis environment on Ubun
 ```bash
 git clone https://github.com/kevoreilly/CAPEv2.git
 cd CAPEv2
-
+```
 ## 2. Run Installation Script
 
     CAPEv2 includes a semi-automated setup script, which located in installer directory.
