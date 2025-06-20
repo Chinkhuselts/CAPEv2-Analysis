@@ -19,8 +19,8 @@ This project presents a dynamic malware analysis of the WarCry ransomware using 
 
 See full instructions in [`setup/`](setup/)
 
-## Analysis Report
-- [/PDF Report](report/WarCry-Analysis.pdf)
+## Analysis Reports
+- [/Reports](report/)
 
 ## IOCs Extracted
 See `IOCs/IOC-summary.txt` for:
