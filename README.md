@@ -17,7 +17,7 @@ This project presents a dynamic malware analysis of the WarCry ransomware using 
 - CAPEv2 cloned and configured with Python dependencies
 - Windows 10 VM connected via NAT with agent installed
 
-See full instructions in [`setup/`](setup/)
+See full instructions in [`setup`](SETUP.md)
 
 ## Analysis Reports
 - [/Reports](report/)
