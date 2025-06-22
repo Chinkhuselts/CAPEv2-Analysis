@@ -3,7 +3,7 @@
 This project presents a dynamic malware analysis of the WannaCry ransomware using the CAPEv2 sandbox. The malware was executed in a controlled Windows 10 virtual environment to safely observe its behavior and identify key indicators of compromise (IOCs).
 
 ## Objective
-- Execute the WarCry sample in a virtualized environment
+- Execute the WannaCry sample in a virtualized environment
 - Observe and log system behavior
 - Extract key behavioral indicators
 
