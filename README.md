@@ -18,9 +18,11 @@ This project presents a dynamic malware analysis of the WannaCry ransomware usin
 - Windows 10 VM connected via NAT with agent installed
 
 See full instructions in [`setup`](SETUP.md)
-
+## Input Sample
+![sample](/report/import-sample.png)
 ## Analysis Reports
-- [/Reports](report/)
+![1](/report/result1.png)
+![2](/report/Result2.png)
 
 ## IOCs Extracted
 See `IOCs/IOC-summary.txt` for:
