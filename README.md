@@ -19,7 +19,7 @@ This project presents a dynamic malware analysis of the WannaCry ransomware usin
 
 See full instructions in [`setup`](SETUP.md)
 ## Process
-[[Watch the video](/report/thumbnail.png)](https://youtu.be/LHIFQqk9zLk)
+[![Watch the video](/report/thumbnail.png)](https://youtu.be/LHIFQqk9zLk)
 ## Input Sample
 ![sample](/report/import-sample.png)
 ## Analysis Reports
