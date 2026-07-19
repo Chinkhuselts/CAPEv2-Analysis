@@ -8,7 +8,7 @@ This repository presents a dynamic malware analysis of the **WannaCry ransomware
 * Extract key behavioral indicators and IOCs for threat intelligence.
 
 ## 🛠️ Tools Used
-* **CAPEv2 Sandbox:** Core analysis engine (hosted on Ubuntu 22.04).
+* **CAPEv2 Sandbox:** Core analysis engine (hosted on Ubuntu 24.04).
 * **Windows 10 Virtual Machine:** Target environment configured with the CAPE agent.
 * **CAPEv2 Web Interface:** Used for submitting samples and reviewing analysis reports.
 
